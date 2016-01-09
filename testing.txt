@@ -1,0 +1,9 @@
+Each algorithm was tested for correct results using various values
+for X, then compared with results of the same polynomial computed
+using a calculator.
+
+
+Final results appear to be correct. I initially believed the Term-by-Term
+algorithm would run slower than Horner's rule due to more elementary
+operations within the algorithm. The results of my program agree with
+that assumption.

@@ -1,0 +1,2 @@
+Term-by-Term averaged 7.09757e-08 seconds.
+Horner Rule averaged 4.40752e-08 seconds.
