@@ -1,8 +1,6 @@
 /*
-**Name: Jonathan Jensen
-**SSID: G03567847
-**CRN: 16692
-**Assignment: Algorithm Analysis Application
+** Copyright (c) Jonathan Jensen 2015
+** Algorithm Analysis Application
 **/
 
 
